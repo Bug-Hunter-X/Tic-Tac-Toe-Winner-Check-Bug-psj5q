@@ -1,0 +1,1 @@
+This repository demonstrates a common bug in game logic: incorrectly handling a draw condition in a Tic-Tac-Toe game. The `checkWinner` function fails to detect a draw when the board is full but no player has three in a row.  The solution demonstrates how to correctly identify a draw condition.
